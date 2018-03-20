@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HW1_ChangeLanguage</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
 </resources>

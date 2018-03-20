@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW1_ChangeLanguage</string>
+    <string name="world">мир</string>
+    <string name="hello">привет</string>
+</resources>
